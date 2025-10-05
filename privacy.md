@@ -57,4 +57,4 @@
 ご質問がある場合は、以下までご連絡ください。
 
 - 開発者名: Sakata Kazunori
-- メールアドレス: [k](mailto:sakata1977@gmail.com)-sak@ymamil.co.jp
+- メールアドレス: [k-sak@ymamil.co.jp](mailto:sakata1977@gmail.com)
