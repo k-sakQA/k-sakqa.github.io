@@ -27,7 +27,7 @@
 
 - **メールでのお問い合わせ**
     
-    👉 k-sak@ymail.com
+    👉 [k](mailto:sakata1977@gmail.com)-sak@ymamil.co.jp
     
 - **App Storeのレビュー欄**
     
@@ -38,4 +38,4 @@
 
 ## プライバシーポリシー
 
-👉 [プライバシーポリシーを読む](https://www.notion.so/26ae4385342e80acb80afd7bd0313257?pvs=21)
+👉 [プライバシーポリシーを読む](https://k-sakqa.github.io/dontgohomestraightPage/privacy)
