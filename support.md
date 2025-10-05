@@ -27,7 +27,7 @@
 
 - **メールでのお問い合わせ**
     
-    👉 [k](mailto:sakata1977@gmail.com)-sak@ymamil.co.jp
+    👉 [k-sak@ymamil.co.jp](mailto:sakata1977@gmail.com)
     
 - **App Storeのレビュー欄**
     
