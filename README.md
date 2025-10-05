@@ -9,7 +9,7 @@ Description: まっすぐ帰りたくない - iOSアプリの公式サイト
 [App Storeからダウンロード](https://apps.apple.com/app/id6753209859)
 
 ## お問い合わせ
-サポートが必要な場合は、[Notionページ](https://generated-lupin-fb3.notion.site/27ee4385342e80a5b53fee8fb248f3ac)をご確認ください。
+サポートが必要な場合は、[サポートページ](https://k-sakqa.github.io/dontgohomestraightPage/support)をご確認ください。
 
 ## プライバシーポリシー
-[プライバシーポリシー](リンク)
+[プライバシーポリシー](https://k-sakqa.github.io/dontgohomestraightPage/privacy)
