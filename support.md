@@ -38,4 +38,4 @@
 
 ## プライバシーポリシー
 
-👉 [プライバシーポリシーを読む](https://k-sakqa.github.io/dontgohomestraightPage/privacy)
+👉 [プライバシーポリシーを読む](https://k-sakqa.github.io/privacy)
